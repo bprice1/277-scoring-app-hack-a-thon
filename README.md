@@ -5,3 +5,6 @@
 2. Rachel Rukavina
 3. Ryan Betts
 
+##Team 2
+1. Megan Rittmeyer
+2. Brian Price
