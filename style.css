@@ -1,0 +1,8 @@
+html {
+  --primary: #6200ee;
+  --primary-variant: #3700b3;
+  --secondary: #03dac6;
+  --secondary-variant: #018786;
+  --error: #b00020;
+  font-size: 14px;
+ }
