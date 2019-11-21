@@ -2,9 +2,9 @@ export default function() {
   return `
 
 <form>
-<label for="tallyScore">Tally score</label>
-  <input id="tallyScore" type="submit" value="Add Test Score!" />
-  <button>click</button>
+<label for="curveScore">How much do you want to curve by</label>
+  <input id="curveScore" type="text" value="Add curve!" />
+  <input type="submit">
 </form>
 <input>
 `;
