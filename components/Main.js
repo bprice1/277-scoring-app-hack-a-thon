@@ -1,4 +1,4 @@
-import * as components from "./components";
+import * as  from "./components";
 
 export default () =>
   `
