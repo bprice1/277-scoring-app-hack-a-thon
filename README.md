@@ -8,3 +8,4 @@
 ##Team 2
 1. Megan Rittmeyer
 2. Brian Price
+3. Jesse Parker
