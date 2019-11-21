@@ -2,7 +2,8 @@ export default function() {
   return `
 
 <form>
-  <input type="submit" value="Add Test Score!" />
+<label for="tallyScore">Tally score</label>
+  <input id="tallyScore" type="submit" value="Add Test Score!" />
   <button>click</button>
 </form>
 <input>
