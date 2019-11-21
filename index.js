@@ -13,3 +13,5 @@ ${Main(st)}
 ${Footer(st)}
 `;
 }
+
+render();
