@@ -5,3 +5,11 @@ const state = {
   currentView: "addScore",
   data: []
 };
+
+function render(st) {
+  document.querySelector("#root").innerHTML = `
+${Header(st)}
+${Main(st)}
+${Footer(st)}
+`;
+}
