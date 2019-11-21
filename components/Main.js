@@ -1,6 +1,4 @@
-import * as  from "./components";
 import * as  from "./components/forms";
-
 
 export default () =>
   `
