@@ -1,6 +1,6 @@
 import * as  from "./components";
-
 import * as  from "./components/forms";
+
 
 export default () =>
   `
@@ -11,5 +11,6 @@ export default () =>
             <button id="getAverage">Average</button>
             <button id="tallyGrades">Tally</button>
         </div>
+
     </main>
 `;
