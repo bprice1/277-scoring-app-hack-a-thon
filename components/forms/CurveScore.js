@@ -3,9 +3,9 @@ export default function() {
 
 <form>
 <label for="curveScore">How much do you want to curve by</label>
-  <input id="curveScore" type="text" value="Add curve!" />
+  <input id="curveScore" type="text" />
   <input type="submit">
 </form>
-<input>
+<input  value="Add curve!">
 `;
 }
