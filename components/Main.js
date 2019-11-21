@@ -1,4 +1,4 @@
-import * as forms from "./components/forms";
+import * as forms from "./forms";
 
 export default () =>
   `
