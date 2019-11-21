@@ -1,3 +1,9 @@
+.DS_Store
+.cache
+dist
+node_modules
+*.sw*
+
 # Logs
 logs
 *.log
